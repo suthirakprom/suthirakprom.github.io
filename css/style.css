@@ -1,0 +1,241 @@
+/*h1
+{
+	text-align: center;
+	color: pink;
+}
+
+.bgstyle
+{
+	background-image: url("../image/IU.jpg");
+	background-repeat: no-repeat;
+}
+
+p
+{
+	text-align: right;
+}
+
+table, td, th
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+*/
+
+/*
+p
+{
+	text-align: justify;
+	text-transform: capitalize;
+	word-spacing: 4px;
+	letter-spacing: 2px;
+	font-size: 10px;
+	line-height: 30px;
+	font-family: monospace;
+
+}
+
+p:Hover 
+{
+	color: pink;	
+}
+
+i 
+{
+	font-size: 3em;
+	color: blue;
+	
+}
+*/
+
+.div1 
+{
+	position: absolute;
+	background-color: red;
+	top: 0px; 
+	left: 0px;
+	width: 1536px;
+	height: 90px;
+}
+.div2 
+{
+	position: absolute;
+	background-color: green; 
+	top: 90px;
+	right: 0px;
+	width: 1400px;
+	height: 90px;
+}
+.div3
+{
+	position: absolute;
+	background-color: blue;
+	top: 180px;
+	right: 0px;
+	width: 1264px;
+	height: 90px;
+}
+.div4
+{
+	position: absolute;
+	background-color: yellow;
+	top: 270px;
+	right: 0px;
+	width: 1128px;
+	height: 90px;
+}
+
+.div5
+{
+	position: absolute;
+	background-color: pink;
+	top: 360px;
+	right: 0px;
+	width: 992px;
+	height: 90px;
+}
+
+.div6
+{
+	position: absolute;
+	background-color: black;
+	top: 450px;
+	right: 0px;
+	width: 856px;
+	height: 90px;
+	color: white
+}
+
+.div7
+{
+	position: absolute;
+	background-color: blue;
+	top: 540px;
+	right: 0px;
+	width: 725px;
+	height: 90px;
+}
+
+.div8
+{
+	position: absolute;
+	background-color: brown;
+	bottom: 0px;
+	right: 0px;
+	width: 145px;
+	height: 124px;
+}
+
+.div9
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 145px;
+	width: 145px;
+	height: 124px;
+}	
+.div10
+{
+	position: absolute;
+	background-color: red;
+	bottom: 0px;
+	right: 290px;
+	width: 145px;
+	height: 124px;
+}
+.div11
+{
+	position: absolute;
+	background-color: pink;
+	bottom: 0px;
+	right: 435px;
+	width: 145px;
+	height: 124px;
+}
+.div12
+{
+	position: absolute;
+	background-color: green;
+	bottom: 0px;
+	right: 580px;
+	width: 145px;
+	height: 124px;
+}
+.div13
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 725px;
+	width: 140px;
+	height: 124px;
+}
+.div14
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 870px;
+	width: 140px;
+	height: 124px;	
+}
+.div15 
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 1015px;
+	width: 140px;
+	height: 124px;	
+}
+.div16
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 1160px;
+	width: 140px;
+	height: 124px;	
+}
+.div17
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 1305px;
+	width: 140px;
+	height: 124px;	
+}
+.div18 
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 1450px;
+	width: 140px;
+	height: 124px;	
+}
+.div19
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 1595px;
+	width: 140px;
+	height: 124px;	
+}
+.div20
+{
+	position: absolute;
+	background-color: orange;
+	bottom: 0px;
+	right: 145px;
+	width: 140px;
+	height: 800px;		
+}
+.general 
+{
+
+	font-size: 3em; 
+}
